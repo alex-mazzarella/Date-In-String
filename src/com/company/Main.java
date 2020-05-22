@@ -8,7 +8,7 @@ public class Main {
     public static void main(String[] args) {
         // write your code here
 
-        System.out.println(datestring(2020, 05, 22));
+        System.out.println(datestring(2020, 5, 22));
 
     }
 
