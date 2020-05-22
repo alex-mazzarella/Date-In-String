@@ -1,3 +1,6 @@
+/**Write a method dateString(day, month, year) that returns a string consisting of
+        the day of the month, a hyphen, the first three letters in the name of the month,
+        another hyphen, and the last two digits of the year*/
 package com.company;
 
 public class Main {
